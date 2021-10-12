@@ -1,5 +1,5 @@
 import { Selector } from 'testcafe';
-import examplePage from "./model/example.page";
+import examplePage from "../model/example.page";
 
 fixture `Getting Started`
     .page `http://devexpress.github.io/testcafe/example`;
